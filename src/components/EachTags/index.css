@@ -1,0 +1,14 @@
+.list-display {
+  list-style-type: none;
+}
+
+.button-display {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #f3aa4e;
+  border-radius: 5px;
+}
+
+.style-Button {
+  background-color: #f3aa4e;
+}

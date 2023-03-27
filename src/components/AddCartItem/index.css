@@ -1,0 +1,30 @@
+.button-list {
+  background-color: #1a171d;
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.button-Element-text {
+  color: #ffffff;
+  background-color: #f3aa4e;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-right: 20px;
+  font-family: 'Roboto';
+}
+
+.on-text-element {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding-left: 10px;
+}
